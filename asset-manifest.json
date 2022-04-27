@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactcssgenerator/static/css/main.59af8792.css",
-    "main.js": "/reactcssgenerator/static/js/main.b1676bc1.js",
+    "main.js": "/reactcssgenerator/static/js/main.992e2dfa.js",
     "index.html": "/reactcssgenerator/index.html",
     "main.59af8792.css.map": "/reactcssgenerator/static/css/main.59af8792.css.map",
-    "main.b1676bc1.js.map": "/reactcssgenerator/static/js/main.b1676bc1.js.map"
+    "main.992e2dfa.js.map": "/reactcssgenerator/static/js/main.992e2dfa.js.map"
   },
   "entrypoints": [
     "static/css/main.59af8792.css",
-    "static/js/main.b1676bc1.js"
+    "static/js/main.992e2dfa.js"
   ]
 }
