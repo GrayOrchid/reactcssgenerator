@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import BurgerMenu from '../components/BurgerMenu';
 
 const Boxshadow = () => {

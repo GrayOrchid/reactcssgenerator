@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import BurgerMenu from '../components/BurgerMenu';
 
 const Transform = () => {
@@ -9,22 +8,14 @@ const Transform = () => {
     let [skewX,setSkewX] = useState(0)
     let [skewY,setSkewY] = useState(0)
     let [scale,setScale] = useState (1)
-
-
-
     return (
         <div className='page'>
-      
             <BurgerMenu/>
             <div className="page-container __margin">
                 <h1>Transform</h1>
                 <div className="transform-items">
-
-
-                <div className="transform-box" style={{       transform:`rotate(${rotate}deg) scale(${scale}) translateX(${translateX}px) translateY(${translateY}px)  skewX(${skewX}deg) skewY(${skewY}deg)`}} ></div>
-         
-                <div className="transform-inputs">
-                
+                <div className="transform-box" style={{transform:`rotate(${rotate}deg) scale(${scale}) translateX(${translateX}px) translateY(${translateY}px)  skewX(${skewX}deg) skewY(${skewY}deg)`}} ></div> 
+                <div className="transform-inputs">                
                 <div className="column">
                 <div className="input">
                         <input type="range"  value={rotate} max='360' onChange={(e)=>setRotate(e.target.value)}/>

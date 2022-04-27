@@ -15,7 +15,6 @@ const Gradient = () => {
     let [show,setShow] = useState(false)
     return (
         <div className='page _full' style={{background:`linear-gradient(${deg}deg,  ${firstColor} ${firstCentum}%, ${secondColor} ${secondCentum}%, ${thridColor} ${thirdCentum}%)`}}>
- 
     <BurgerMenu/>
      <div className="page-container">
      <div onClick={()=>setShow(true)} className='gradient-button' >Edit</div>

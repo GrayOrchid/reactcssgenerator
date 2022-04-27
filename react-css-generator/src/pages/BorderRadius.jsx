@@ -11,13 +11,10 @@ const Borderradius = () => {
     let [borderType,setBorderType] = useState('solid')
 
     return (
-<div className='page'>
-  
-
+<div className='page'>  
    <BurgerMenu/>
    <div className="page-container __margin">
-      <h1>Border Radius   ЫФЫФЫФЫ</h1>
-      ЫФЫФЫФЫ
+      <h1>Border Radius</h1>
       <div className="border-items">
          <div className="border-radius">
             <div className="input">

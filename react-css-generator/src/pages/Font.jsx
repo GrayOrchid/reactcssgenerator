@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import BurgerMenu from '../components/BurgerMenu';
 
 const Font = () => {
@@ -12,7 +11,6 @@ const Font = () => {
     
     return (
         <div className='page'>
-
 	<BurgerMenu/>
 	<div className="page-container __margin">
 		<h1>Font</h1>

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import BurgerMenu from '../components/BurgerMenu';
 
 const Flexbox = () => {
@@ -9,7 +8,6 @@ const Flexbox = () => {
     
     return (
         <div className='page'>
-        {/* <Link to='/'>Home</Link> */}
        <BurgerMenu/>
         <div className="page-container __margin">
           <h1 >Flex Box</h1>
