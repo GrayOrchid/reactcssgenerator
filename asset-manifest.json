@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcssgenerator/static/css/main.59af8792.css",
+    "main.js": "/reactcssgenerator/static/js/main.4b2d6cd6.js",
+    "index.html": "/reactcssgenerator/index.html",
+    "main.59af8792.css.map": "/reactcssgenerator/static/css/main.59af8792.css.map",
+    "main.4b2d6cd6.js.map": "/reactcssgenerator/static/js/main.4b2d6cd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59af8792.css",
+    "static/js/main.4b2d6cd6.js"
+  ]
+}
