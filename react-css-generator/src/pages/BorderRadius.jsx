@@ -16,7 +16,7 @@ const Borderradius = () => {
 
    <BurgerMenu/>
    <div className="page-container __margin">
-      <h1>Border Radius</h1>
+      <h1>Border Radius   ЫФЫФЫФЫ</h1>
       ЫФЫФЫФЫ
       <div className="border-items">
          <div className="border-radius">
